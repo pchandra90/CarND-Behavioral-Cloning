@@ -83,7 +83,7 @@ which is also default of adam optimizer.
 #### 4. Appropriate training data
 
 I have used given training data. Only use images of central camera. 
-As we have less number of right curved lane date, horizontally fliped images and its negative stearing mesurnments is used
+As we have less number of right curved lane date, horizontally fliped images and its negative steering mesurnments is used
 to increase training data and get sufficient right turn images.
 
 ### Model Architecture and Training Strategy
@@ -129,7 +129,7 @@ vehicle would learn to recover if deviated from center of lane.
 
 ![alt text][right_center1] ![alt text][right_center2]
 
-To augment the data set, flipped images and take negative of stearing angle mesurnment for fliped images. By this 
+To augment the data set, flipped images and take negative of steering angle mesurnment for flipped images. By this 
 agumentation technique training example become twice and also balance examples for left and right turn lane lines.
 An example of fliped image.
 
