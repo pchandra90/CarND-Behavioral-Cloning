@@ -5,7 +5,7 @@
 [![Watch the video](./examples/logo.jpg)](https://www.youtube.com/watch?v=Cx6-MCVDjTc)
 
 
-In this project CNN model is cloning human style of stearing control. This is an assignment of Self Driving Car Engineer nano degree course offered by Udacity. Transfer learning approch is used. Pretrained "MobileNet" model is used. For details see
+In this project CNN model is cloning human style of steering control. This is an assignment of Self Driving Car Engineer nano degree course offered by Udacity. Transfer learning approch is used. Pretrained "MobileNet" model is used. For details see
 [writeup](https://github.com/pchandra90/CarND-Behavioral-Cloning/blob/master/writeup.md)
 
 ---
